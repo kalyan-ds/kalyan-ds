@@ -15,4 +15,4 @@ Building unique AI projects for real-world applications.
 
 ## 📫 Contact Me
 Email: your-email@gmail.com
-LinkedIn: (add later)
+LinkedIn: (https://www.linkedin.com/in/kalyan-reddy-byreddy-559b6b344)
