@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kalyan Reddy 👋
 
-<!--
-**kalyan-ds/kalyan-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI & Data Science Engineer  
+📊 Passionate about solving real-world problems using AI  
 
-Here are some ideas to get you started:
+## 🔧 Skills I'm Learning
+- Python
+- Machine Learning
+- Data Science
+- Deep Learning
+- NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+Building unique AI projects for real-world applications.
+
+## 📫 Contact Me
+Email: your-email@gmail.com
+LinkedIn: (add later)
