@@ -2,97 +2,109 @@
 
 # Hi 👋 I'm Byreddy Kalyan Reddy
 
-### AI & Data Science Undergraduate • Data Analytics • Machine Learning • Generative AI
+### AI & Data Science Engineer • Machine Learning • Generative AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Data+Analyst+%7C+Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+NLP;Building+AI+Projects+Everyday+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Specialist;Building+Scalable+AI+Models;Exploring+Generative+AI;Python+%7C+SQL+%7C+Deep+Learning" />
 
-<img src="https://komarev.com/ghpvc/?username=kalyan-ds&color=blue"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kalyan-ds&color=7aa2f7&style=for-the-badge"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyan-reddy-byreddy-559b6b344)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalyan-ds)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kalyan-ds)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/kalyan-ds/)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-* 🎓 B.Tech CSE (AI & DS)
-* 🏫 Swami Vivekanandha Institute of Technology
-* 📊 Passionate about Data Analytics and Machine Learning
-* 🤖 Exploring Generative AI and Deep Learning
-* 💡 Building AI solutions and real-world projects
-* 🌱 Learning continuously
+I am an AI & Data Science Engineer passionate about turning complex data into actionable intelligence. My focus lies in **Machine Learning**, **Generative AI**, and **Data Analytics**. I enjoy building scalable AI models and creating data-driven solutions for real-world problems. 
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python)
-![mysql](https://skillicons.dev/icons?i=mysql)
-![git](https://skillicons.dev/icons?i=git)
-
-### Data Analytics
-
-![pandas](https://skillicons.dev/icons?i=python)
-![numpy](https://skillicons.dev/icons?i=python)
-
-### Tools
-
-![vscode](https://skillicons.dev/icons?i=vscode)
-![github](https://skillicons.dev/icons?i=github)
+* 🎓 **Education:** B.Tech CSE (AI & DS) @ Swami Vivekanandha Institute of Technology
+* 💻 **Currently Exploring:** Advanced LLMs, Deep Learning, and end-to-end MLOps architectures.
+* 💡 **Goal:** To innovate at the intersection of AI research and production engineering.
 
 ---
 
-# 📈 GitHub Stats
+## 🛠 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=kalyan-ds\&show_icons=true\&theme=tokyonight)
+### Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kalyan-ds\&theme=tokyonight)
+### AI, Machine Learning & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,matlab" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-ds\&layout=compact\&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kalyan-ds\&theme=tokyonight\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 🔥 Featured Projects
-
-### 🤖 AI Career Intelligence Platform
-
-AI-powered career guidance and analytics platform.
-
-### 💳 Credit Card Fraud Detection
-
-Random Forest + Isolation Forest + Anomaly Detection.
-
-### 😊 Sentiment Analysis using NLP
-
-TF-IDF + SVM + NLP Pipeline.
-
-### 🧠 Customer Segmentation Analysis
-
-K-Means clustering and customer behavior analysis.
-
-### 🏠 House Price Prediction
-
-Linear Regression with business insights.
-
-### 📈 Retail Sales EDA
-
-Exploratory Data Analysis with visualization.
+### Databases, Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker,git,github,vscode" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 📈 GitHub Activity & Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kalyan-reddy-byreddy-559b6b344)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/kalyan-ds)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyan-ds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-ds&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="195" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan-ds&theme=tokyonight&hide_border=true&background=1a1b26" />
+</div>
 
 ---
 
-⭐ Building AI Projects and Growing Every Day 🚀
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalyan-ds/kalyan-ds/output/dist/github-contribution-grid-snake-tokyonight.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalyan-ds/kalyan-ds/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalyan-ds/kalyan-ds/output/dist/github-contribution-grid-snake-tokyonight.svg">
+  </picture>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kalyan-ds&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="kalyan-ds trophies" />
+  </a>
+</div>
+
+---
+
+## 🧠 Coding & Data Profiles
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/kalyan-ds?theme=tokyo_night&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🤖 AI Career Intelligence Platform** | AI-powered career guidance and analytics platform providing actionable insights. | Python, NLP, LLMs |
+| **💳 Credit Card Fraud Detection** | Detected anomalous transaction behaviors using robust ensemble models. | Random Forest, Isolation Forest |
+| **😊 Sentiment Analysis Engine** | End-to-end NLP pipeline for extracting sentiment and intent from textual data. | TF-IDF, SVM, NLTK |
+| **🧠 Customer Segmentation** | Uncovered buying patterns and segmented customers using unsupervised learning. | K-Means Clustering |
+| **🏠 House Price Prediction** | Business-focused regression model mapping housing features to market valuations. | Linear Regression |
+| **📈 Retail Sales EDA** | Comprehensive exploratory data analysis to drive retail business strategy. | Pandas, Seaborn, Matplotlib |
+
+<div align="center">
+  <br/>
+  <i><b>"Transforming Data into Intelligence"</b></i>
+</div>
