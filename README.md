@@ -65,23 +65,18 @@ I am an AI & Data Science Engineer passionate about turning complex data into ac
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalyan-ds/kalyan-ds/output/dist/github-contribution-grid-snake-tokyonight.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalyan-ds/kalyan-ds/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kalyan-ds/kalyan-ds/output/dist/github-contribution-grid-snake-tokyonight.svg">
-  </picture>
-</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalyan-ds/kalyan-ds/output/github-contribution-grid-snake-tokyonight.svg" alt="Snake animation"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalyan-ds&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="kalyan-ds trophies" />
-  </a>
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kalyan-ds&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
