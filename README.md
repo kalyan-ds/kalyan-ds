@@ -14,8 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyan-reddy-byreddy-559b6b344)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalyan-ds)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kalyan-ds)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/kalyan-ds/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/byreddykalyanreddy)
 
 </div>
 
@@ -72,19 +71,16 @@ I am an AI & Data Science Engineer passionate about turning complex data into ac
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kalyan-ds&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-</p>
 
 ---
 
-## 🧠 Coding & Data Profiles
+## 🏅 Kaggle Profile
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/kalyan-ds?theme=tokyo_night&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-</div>
+<p align="center">
+<a href="https://www.kaggle.com/byreddykalyanreddy">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+</p>
 
 ---
 
