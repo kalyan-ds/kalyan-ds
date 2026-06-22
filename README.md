@@ -32,19 +32,33 @@ I am an AI & Data Science Engineer passionate about turning complex data into ac
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css" />
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,js,ts" />
 </p>
 
-### AI, Machine Learning & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,matlab" />
+### Web Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
 </p>
 
-### Databases, Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker,git,github,vscode" />
+### AI / Machine Learning / Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,docker" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
